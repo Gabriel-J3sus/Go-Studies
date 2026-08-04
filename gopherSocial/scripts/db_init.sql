@@ -1,0 +1,2 @@
+CREATE DATABASE gopher_social;
+CREATE EXTENSION IF NOT EXISTS citext;
